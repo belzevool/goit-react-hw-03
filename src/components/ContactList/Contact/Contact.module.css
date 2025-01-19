@@ -12,9 +12,9 @@
   display: block;
   margin: 0 auto;
   padding: 10px;
-  color: #007bff;
+  color: black;
   background-color: transparent;
-  border: 1px solid rgba(0, 123, 255, 0.5);
+  border: 1px solid #004000;
   border-radius: 8px;
   outline: none;
   cursor: pointer;
@@ -24,7 +24,7 @@
   &:hover,
   &:focus {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #004000;
+    border-color: #004000;
   }
 }
